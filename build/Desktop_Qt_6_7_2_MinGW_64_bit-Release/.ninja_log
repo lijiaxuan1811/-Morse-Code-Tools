@@ -1,0 +1,18 @@
+# ninja log v6
+6	416	7451058303087667	E:/Users/administered/Documents/Morse-code-tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	210aba5901d970b
+427	2202	7451058322908665	Morse-code-tools_autogen/timestamp	513458ca36c48e8
+427	2202	7451058322908665	E:/Users/administered/Documents/Morse-code-tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/Morse-code-tools_autogen/mocs_compilation.cpp	513458ca36c48e8
+427	2202	7451058322908665	Morse-code-tools_autogen/mocs_compilation.cpp	513458ca36c48e8
+427	2202	7451058322908665	E:/Users/administered/Documents/Morse-code-tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/Morse-code-tools_autogen/timestamp	513458ca36c48e8
+2203	5623	7451058325058790	CMakeFiles/Morse-code-tools.dir/Morse-code-tools_autogen/mocs_compilation.cpp.obj	2504a0e1f1426b38
+2216	5335	7451058325080963	CMakeFiles/Morse-code-tools.dir/main.cpp.obj	5a11f4a5b2b82a5b
+2230	5891	7451058325237923	CMakeFiles/Morse-code-tools.dir/morse.cpp.obj	bc4b2bf5edc5dca9
+5891	6150	7451058361943626	Morse-code-tools.exe	62a22011141c1a9d
+431	1550	7451098647327731	build.ninja	c7562f733e77dd45
+6	407	7451099101817719	E:/Users/administered/Documents/Morse-code-tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	210aba5901d970b
+489	911	7451099106508212	Morse-code-tools_autogen/timestamp	513458ca36c48e8
+489	911	7451099106508212	Morse-code-tools_autogen/mocs_compilation.cpp	513458ca36c48e8
+489	911	7451099106508212	E:/Users/administered/Documents/Morse-code-tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/Morse-code-tools_autogen/timestamp	513458ca36c48e8
+489	911	7451099106508212	E:/Users/administered/Documents/Morse-code-tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/Morse-code-tools_autogen/mocs_compilation.cpp	513458ca36c48e8
+911	4422	7451099110870944	CMakeFiles/Morse-code-tools.dir/morse.cpp.obj	bc4b2bf5edc5dca9
+4422	5090	7451099145980764	Morse-code-tools.exe	62a22011141c1a9d

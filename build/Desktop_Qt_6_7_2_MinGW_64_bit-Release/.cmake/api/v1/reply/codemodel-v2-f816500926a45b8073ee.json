@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-edf2bd33fb628b878db1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Morse-code-tools",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Morse-code-tools::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Morse-code-tools-Release-6f2a173416c505664700.json",
+					"name" : "Morse-code-tools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Morse-code-tools_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Morse-code-tools_autogen-Release-b00be83a55324376e751.json",
+					"name" : "Morse-code-tools_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Morse-code-tools_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Morse-code-tools_autogen_timestamp_deps-Release-433336cf0601de09ef1d.json",
+					"name" : "Morse-code-tools_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Users/administered/Documents/Morse-code-tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release",
+		"source" : "E:/Users/administered/Documents/Morse-code-tools"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-edf2bd33fb628b878db1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Morse-code-tools",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Morse-code-tools::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Morse-code-tools-Debug-574c43dc939062bc0119.json",
+					"name" : "Morse-code-tools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Morse-code-tools_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Morse-code-tools_autogen-Debug-9c51c32ce6ea8b32de40.json",
+					"name" : "Morse-code-tools_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Users/administered/Documents/Morse-code-tools/build/Desktop_Qt_5_14_2_MinGW_32_bit-Debug",
+		"source" : "E:/Users/administered/Documents/Morse-code-tools"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
